@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the AI Invoice and Document Data Extraction Pipeline, covering dual-engine staging for Xero and QuickBooks, multimodal vision extraction with arithmetic/duplicate validation, an interactive side-by-side document review workstation, exception queue triage, and an end-to-end pipeline architecture diagram.",
+  "updatedAt":  "2026-10-28T09:59:08.561469003Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

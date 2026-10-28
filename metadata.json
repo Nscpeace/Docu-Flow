@@ -1,0 +1,6 @@
+{
+  "name": "DocuFlow AP · AI Invoice & Accounting Pipeline",
+  "description": "Intelligent invoice data extraction, arithmetic validation, and automated draft bill staging for Xero and QuickBooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
